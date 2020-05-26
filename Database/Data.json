@@ -1,0 +1,1589 @@
+{
+	"hospital": [
+		{
+			"id": 1,
+			"title": "Municipal Hospital",
+			"address": "Christian Colony, Satya Nagar, Jamalpur, Ahmedabad, Gujarat-380022",
+			"contact": "(079) 26768505"
+		},
+		{
+			"id": 2,
+			"title": "Govt Hospital",
+			"address": "1, C Ganesh Bhavan, Ambica Kunj Soc., Opp. Ambamataji, Navarangpura gham, Maninagar, Ahmedabad, Gujarat-380008",
+			"contact": "(098) 25953283"
+		},
+		{
+			"id": 3,
+			"title": "ESI General Hospital",
+			"address": "Police Chowky, Stadium Road, Nr. Hardas nagar, Bapunagar, Ahmedabad, Gujarat-380040",
+			"contact": "(079) 22743935"
+		},
+		{
+			"id": 4,
+			"title": "Vadilal Sarabhai Hospital",
+			"address": "Pam Spring Complex, Opp. Mehta Restaurant, Ellisbidge, Ahmedabad, Gujarat-380006",
+			"contact": "(079) 26577623"
+		},
+		{
+			"id": 5,
+			"title": "GCS Medical College",
+			"address": "Opp. D.R.M. Office, Nr. Chamunda Bridge, Naroda road, Ahmedabad, Gujarat-380025",
+			"contact": "(079) 66048000"
+		},
+		{
+			"id": 6,
+			"title": "Hospital & Research Center",
+			"address": "Maninagar, Ahmedabad, Gujarat-380008",
+			"contact": "(079) 25461380"
+		},
+		{
+			"id": 7,
+			"title": "L G Hospital",
+			"address": "Balvatika-Maninagar road, near Jaldhara Water World, Kankariya, Maninagar, Ahmedabad, Gujarat-380008",
+			"contact": "(079) 25471025"
+		},
+		{
+			"id": 8,
+			"title": "Siddhi Vinayak Hospital",
+			"address": "1, Uday Park Society, Near Sunrise Park, Vastrapur, Ahmedabad, Gujarat-380015",
+			"contact": "(079) 26300176"
+		},
+		{
+			"id": 9,
+			"title": "Sanjivani Super Speciality Hospitals",
+			"address": "Mithakhali Six Road, Maharashtra Society, Ellisbridge, Ahmedabad, Gujarat-380006",
+			"contact": "(079) 40010101"
+		},
+		{
+			"id": 10,
+			"title": "HCG Multi Speciality Hospital",
+			"address": "Opp. Panchamrut Bunglows, Near Shukan Mall, off Science City Road, Sola, Ahmedabad, Gujarat-380060",
+			"contact": "(098) 25066664"
+		},
+		{
+			"id": 11,
+			"title": "CIMS Hospital",
+			"address": "Stadium Commerce College Road, Navrangpura, Ahmedabad, Gujarat-380009",
+			"contact": "(079) 40232121"
+		},
+		{
+			"id": 12,
+			"title": "Nidhi Hospital",
+			"address": "Zydus Hospitals Road,Nr. Sola Bridge, S.G.Highway,Ahmedabad,Gujarat-380054",
+			"contact": "(079) 66190201"
+		},
+		{
+			"id": 13,
+			"title": "Zydus Hospitals",
+			"address": "Opp. Annapurna Hall, Besides Dev Status, Vikas Gruh Road, Paldi, Ahmedabad, Gujarat-380007",
+			"contact": "(079) 26561155"
+		},
+		{
+			"id": 14,
+			"title": "Kidneyline Healthcare Pvt Ltd.",
+			"address": "7/75, Vallabh Flat, Bapu Nagar Cross Road, Bapu Nagar, ahmedabad, Gujarat-380024",
+			"contact": "(079) 22773000"
+		},
+		{
+			"id": 15,
+			"title": "Tapan Hospital Pvt Ltd",
+			"address": "Near Ramnagar Sabarmati Police Station High-Way, Ramnagar, Sabarmati, Ahmedabad, Gujarat-380005",
+			"contact": "(079) 27506336"
+		},
+		{
+			"id": 16,
+			"title": "Panchshil Hospital",
+			"address": "Plot no.1 A, Bhat GIDC Estate, Gandhinagar, Gujarat-382428",
+			"contact": "(079) 23969475"
+		},
+		{
+			"id": 17,
+			"title": "Apollo Hospital",
+			"address": "Opp. Dooedarshan, Drive-in Road, Thaltej,  Ahmedabad, Gujarat-380054",
+			"contact": "(099) 25195656"
+		},
+		{
+			"id": 18,
+			"title": "SAL Hospital",
+			"address": "319, green City, Ghuma, Via Bopal, Ahmedabad, Gujarat-380058",
+			"contact": "(098) 25022188"
+		},
+		{
+			"id": 19,
+			"title": "Krishna Shalby Hospital",
+			"address": "421, B/S. Sukh Sagar Complex, LBS Road, Opp. Dinesh Chambers, Bapunagar, Ahmedabad, Gujarat-380025",
+			"contact": "(079)22205854"
+		},
+		{
+			"id": 20,
+			"title": "Kakadia Hospital",
+			"address": "Nr. Manav mandir, opp. Traffic police helmet, 132 ft. Ring road, Drive in road junction, Memnagar, Ahmedabad, Gujarat-380052",
+			"contact": "(096) 87607355"
+		},
+		{
+			"id": 21,
+			"title": "Sunflower women's hospital",
+			"address": "404, 4th floor, Asopalav house, Opp. Keshav Baug Party Plot, 132 Feet Ring road, Satelite, Bimanagar, Ambavadi, Ahmedabad, Gijarat-380015",
+			"contact": "(098) 25007068"
+		},
+		{
+			"id": 22,
+			"title": "Ahmedabad heart hospital",
+			"address": "Drive in road, Thaltej tekra, Ahmedabad, Gujarat-380054",
+			"contact": "(079) 26854861"
+		},
+		{
+			"id": 23,
+			"title": "Vasant nature cure hospital",
+			"address": "Nr. Maharaja Agrasen vidhyalay, Sterling hospital road, Nilmani soc., Memnagar, Ahmeadabad, Gijarat-380052",
+			"contact": "(079) 40011111"
+		},
+		{ "id": 24, "title": "Sterling hospital" }
+	],
+	"restaurant": [
+		{
+			"id": 1,
+			"title": "The Green House",
+			"address": " The House of MG, Opp. Sidi Saiyed Jali, Nr. Relief Road, Lal Darwaja, Ahmedabad, Gujarat",
+			"contact": " 09909970682",
+			"timing": "Open: 7AM-11Pm"
+		},
+		{
+			"id": 2,
+			"title": "Vishalla",
+			"address": "Vasna Road, Opp. Vasna Tol-Naka, Ahmedabad, Gujarat",
+			"contact": " (079)26602422",
+			"timing": "Open: 11AM-11PM"
+		},
+		{
+			"id": 3,
+			"title": "Shrifal Garden Restaurant",
+			"address": "S. G. Highway, Next To Iscon Temple, Ahmedabd, Gujarat",
+			"contact": "09825347948",
+			"timing": "Open: 11:30AM-3:30PM, 7PM-11PM"
+		},
+		{
+			"id": 4,
+			"title": "Honest Restaurant",
+			"address": "Antriksh Complex, Panjarapol Cross Road, Ambawadi, Ahmedabad,Gujarat",
+			"contact": "09909944421",
+			"timing": " Open: 11:30AM-12:30AM "
+		},
+		{
+			"id": 5,
+			"title": "Patiala Pangat",
+			"address": "Thaltej Shilaj Road, Near Hind Super Market, Thaltej, Ahmedabad, Gujarat",
+			"contact": "(079)40040447",
+			"timing": " Open: 11AM-3PM, 6PM-11PM "
+		},
+		{
+			"id": 6,
+			"title": "The Veni Vichi Restaurant",
+			"address": "Opp. Sindhu Bhavan, Sindhu Bhavan Road, Bodakdev, Ahmedabd,Gujart",
+			"contact": "+91 9099931999",
+			"timing": " Open: 11AM-3PM, 7PM-11PM"
+		},
+		{
+			"id": 7,
+			"title": "City Point Restaurant",
+			"address": "Ajit Vijay Complex, Ajit Mill Char Rasta, Rakhial Road, Industrial Area, Rakhial, Ahmedabad, Gujarat",
+			"contact": "(079)22774441",
+			"timing": " Open: 9AM-4PM, 7PM-11PM "
+		},
+		{
+			"id": 8,
+			"title": "Garden Lawn",
+			"address": "The Fern, An Ecotel Hote;, Near Sola Overbridge, S. G. Highway, Shenbhai Nagar, Ahmedabad, Gujarat",
+			"contact": "(079)71001001",
+			"timing": " Open: 7PM-11:30PM "
+		},
+		{
+			"id": 9,
+			"title": "CHAKK DE PHATTE",
+			"address": "Khau Gali, Law Garden, Ahmedabad, Gujarat",
+			"contact": " 09998279484",
+			"timing": " Open: 5:30PM-11:30PM"
+		},
+		{
+			"id": 10,
+			"title": "Sigri",
+			"address": " Opp. Prahlad Nagar Garden, Hotel Ramada, Prahlad Nagar, Ahmedabad, Gujarat",
+			"contact": " (079)40250000 ",
+			"timing": " Open: 7PM-10:30PM"
+		},
+		{
+			"id": 11,
+			"title": "Balaji Restaurant",
+			"address": " Opp. Satyam Complex, Prenatirth Derasar Road, Jodhpur Cahr Rasta, Satellite, Jodhpur Village, Ahmedabad, Gujarat",
+			"contact": " 09824430208 ",
+			"timing": "Open: 11AM-3PM, 6PM-11PM"
+		},
+		{
+			"id": 12,
+			"title": "Freeze Land Restaurant",
+			"address": "GF, Silicon Tower, Behind Samartheswar Mahadev, Law Garden, Ahmedabad, Gujarat",
+			"contact": " (079)26404044",
+			"timing": "Open: 10AM-11PM"
+		},
+		{
+			"id": 13,
+			"title": "Shabari Garden Restaurant",
+			"address": "Hari Darshan Nikol Road, Nava Naroda, Ahmedabad, Gujarat",
+			"contact": "09998193430",
+			"timing": " Open: 10AM-11:30PM"
+		},
+		{
+			"id": 14,
+			"title": "FUNPOINT GARDEN RESTAURANT",
+			"address": " Near Tapovan Circle, Sardar Patel Ring Road, Ahmedabad, Gujarat",
+			"contact": "09974593530",
+			"timing": "Open: 9AM-11PM"
+		},
+		{
+			"id": 15,
+			"title": "Pleasure Trove",
+			"address": "First Floor, Behind 101-104, Sakar 7, Near Patang Hotel, Nehru Bridge Corner, Ashram Road, Ahmedabad, Gujarat",
+			"contact": " (079)26574892",
+			"timing": "Open: 11:45AM-2:45PM, 7:15PM-10:45PM"
+		},
+		{
+			"id": 16,
+			"title": "Hong Kong Restaurant",
+			"address": "1st Floor, THIRD EYE-II, Opp. Parimal Garden, Near Panchvati Cross Road, Ambavadi, Ahmedabad, Gujarat",
+			"contact": "09924598987",
+			"timing": "Open: 12PM-3PM, 7PM-11PM"
+		},
+		{
+			"id": 17,
+			"title": "MEHMAAN",
+			"address": " Floor, Takshila Complex, Krishnabagh Cross Road, Maninagar, Ahmrdabad, Gujarat",
+			"contact": "(079)25469899",
+			"timing": "Open: 11AM-2:30PM, 7PM-10:30PM"
+		},
+		{
+			"id": 18,
+			"title": "Havmor Restaurant",
+			"address": " Behind Navrangpura Bus Stand, Navarangpura, Ahmedabad, Gujarat",
+			"contact": "(079)26403355",
+			"timing": "Open: 12PM-3PM, 7PM-10:45PM"
+		},
+		{
+			"id": 19,
+			"title": "Pushp Restaurant",
+			"address": "Ground Floor, Pushp Business Campus, Vastral Cross Road, SP Ring Road, Ahmedabad, Gujart",
+			"contact": "09426056530",
+			"timing": "Open: 11AM-4:45PM, 6:30PM-10:45PM"
+		},
+		{
+			"id": 20,
+			"title": "Vintage Village",
+			"address": "Dastan Farm, Near Kathwada Circle, Sardar Patel Ring Road, Ahmedabad, Gujarat",
+			"contact": "(079)22981117",
+			"timing": "Open: 12PM-3PM, 6:30PM-10:30PM"
+		},
+		{
+			"id": 21,
+			"title": "Yanki Sizzlers",
+			"address": " Ground Floor, Binori Ambit, S. G. Highway, Next to Renault Showroom, Opp. Newyork Towers, Near Thaltej Circle, Ahmedabad, Gujarat",
+			"contact": "(079)40381616",
+			"timing": "Open: 12PM-3PM, 7PM-11PM"
+		},
+		{
+			"id": 22,
+			"title": "Mayur Restaurant-II",
+			"address": "Floor, Neelkanth Avenue, Odhav Ring Road, Odhav Gam, Ahmedabad, Gujarat",
+			"contact": "07043701627",
+			"timing": "Open: 11AM-11PM"
+		},
+		{
+			"id": 23,
+			"title": "Comfy Restaurant",
+			"address": " Floor, Radhe Kishan Arcade, Opp. Ghodasar BRTS, Near Vaibhav Hall, Isanpur Road, Prakash Nagar, Ahmedabad, Gujarat",
+			"contact": "(079)65123429",
+			"timing": " Open: 11AM-3PM, 7PM-11PM"
+		},
+		{
+			"id": 24,
+			"title": "Neelkanth Patang Restaurant",
+			"address": "Near Nehru Bridge, Ashram Road, Ahmedabad, Gujarat",
+			"contact": "(079)26586200",
+			"timing": "Open: 12PM-3PM, 7PM-11PM"
+		}
+	],
+	"mall": [
+		{
+			"id": 1,
+			"title": "APM Shopping Mall",
+			"address": "100 Feet Road, Shyamal Char Rasta, Satelite, Ahmedabad",
+			"contact": "(079) 26939093"
+		},
+		{
+			"id": 2,
+			"title": "Big Bazaar",
+			"address": "Near Isckon Temple, S G Highway, Rudra Point, Ahmedabad",
+			"contact": "(079) 30481131"
+		},
+		{
+			"id": 3,
+			"title": "Ahmedabad City Mall",
+			"address": "New Cotton Mill Compound, Outside Raipur Gtae, Opp. Arya Sevasamaj Hall, Ahmedabad",
+			"contact": "(079) 30287611"
+		},
+		{
+			"id": 4,
+			"title": "D Mart",
+			"address": "Sangath Mall 3, Near India Colony Cross Road, Lal Bahadur Shastri Road, Bapunagar, Ahmedabad",
+			"contact": "(079) 22205740"
+		},
+		{
+			"id": 5,
+			"title": "E Mall",
+			"address": "Shivalik Corporate Park, Near IOC Petrol Pump, Shivranjni Cross Road, Satelite, Ahmedabad",
+			"contact": "(079) 40066844"
+		},
+		{
+			"id": 6,
+			"title": "Galaxy Super Mall",
+			"address": "26, Goyal Plaza Shopping Center, Near Manshi Cross Road, Premchand Nagar Road, Vastrapur, Ahmedabad",
+			"contact": "(079) 26761000"
+		},
+		{
+			"id": 7,
+			"title": "Gallops Mall",
+			"address": "Shop no.1234, Swapnil Regency, Near Naranpura Police Chowki, Naranpura, Ahmedabad",
+			"contact": "(079) 64500623"
+		},
+		{
+			"id": 8,
+			"title": "Gulmohar Park",
+			"address": "Shiromani Complex, Near Nehru Nagar Circle, Ambawadi, Ahmedabad",
+			"contact": "(079) 9898999222"
+		},
+		{
+			"id": 9,
+			"title": "Himalaya Mall",
+			"address": "Isckon Cross Road, Opp. Big Bazaar, Sarkhej Gandhinagar Highway, Ahmedabad",
+			"contact": "(079) 40327721"
+		},
+		{
+			"id": 10,
+			"title": "Iscon Mega Mall",
+			"address": "C/O Navratna Properties Pvt Ltd, Opp. Satelite Police Station, Ramdevnagar Cross Road, Satelite, Ahmedabad",
+			"contact": "(079) 30125952"
+		},
+		{
+			"id": 11,
+			"title": "Pantaloons",
+			"address": "Indraprastha Tower Road, Opp. ICICI Bank, Drive in Road, Ahmedabad",
+			"contact": "(079) 40040280"
+		},
+		{
+			"id": 12,
+			"title": "Acres Mall",
+			"address": "S.G. Highway, Near Rajpath club, Bodakdev, Ahmedabad",
+			"contact": "(079) 40048398"
+		},
+		{
+			"id": 13,
+			"title": "Parsvnath Mall",
+			"address": "Abhijit III, Netaji Road, near Law Garden, Ahmedabad",
+			"contact": "(079) 25460688"
+		},
+		{
+			"id": 14,
+			"title": "Reliance Mart",
+			"address": "Kankaria, Ahmedabad",
+			"contact": "null"
+		},
+		{
+			"id": 15,
+			"title": "Star India Bazaar",
+			"address": "Vastrapur, Ahmedabad",
+			"contact": "(079) 40089155"
+		},
+		{
+			"id": 16,
+			"title": "Super Mall",
+			"address": "Iscon Mega Mall, Near Iscon Temple, Sarkhej-Gandhinagar Highway, Ahmedabad",
+			"contact": "(079) 66010101"
+		}
+	],
+	"touristPlaces": [
+		{
+			"id": 1,
+			"title": "Akshardham Temple",
+			"address": "J road, Sector 20, Gandhinagar",
+			"description": "Akshardham is majestic, intricately stone structure which stands amid sprawling gardens set in a 23-acre plot at Gandhinagar. It is built in 6000 tones of pink sandstone and not a bit of steel has been used. The temple is 108 ft in height, 240 ft in length, and 131 ft in width. A point worth nothing is that is modern monument to Hinduism was built in per injunctions of Vastu Shashtra. The monument enshrining the seven foot high, gold-leafed Murti (idol) of Lord Swaminarayan is the focal point of the complex. The monument stands on 7 sculpted pillars, 210 single-piece stone beams, 57 window grills, M domes, eight ornate zarokhas etc. The Sanctorum contains the 1.2 tone gold-plated idol of Lord Swaminarayan, the founder of the sect that bears his name, shown in a sitting posture with his right hand raised in abhay mudra. He is a flanked by Swami Gunatitanand on his right and Swami Gopalnand Swami on his left. Both of them were his disciples. Swami Gunatitanand is called Swaminarayan’s Akshardham, the eternal abode. According to the Swaminarayan philosophy whenever Lord Swaminarayan incarnets on his planet he brings with him his Akshardham. Gunatitanand is also called Akshrbramha and ranks second in the hierarchy of the Bochasanvasi Akshar Purushottam sanstha which built the Akshardham monument. Inspiring episodes and incidents from the glorious history of Sanatan Dharma are presented in sound and light from for the benefit of the visitors. The show takes the visitors through various facets of Hinduism. The wisdom of the Vedas, the epics, the Puranas is depicted on a crowded canvas by the exhibition. The visitor comes face to face with personages who have made this land what it is. It is a perfect mix of modernity and ancient values. A part from Lord Rama going in search of his kidnapped wife, the visitor can see Shravan- the dutiful son, the Pandavas losing the game of dice in the Hastinapur palace, etc. Besides the visitors can also see sabari’s long wait for Lord Rama and Draupadi’s humiliation in the kauravasabha. The hall of Harmony projects world religions side by side. The monument in ringed by aparikrama containig 365 stone pillars. The temple also houses the Akshardham center for applied research in Social harmony (AARSH) which is futuristic research center with a rich library, study stations and archives. Access to the library is confined to enlisted scholars. So far millions of people have visited the monument since its inception on November 2, 1992. They have been able to savour the story of Hinduism and imbibe the message of universal peace and brotherhood."
+		},
+		{
+			"id": 2,
+			"title": "Bhadra Fort",
+			"address": "Bhadra Fort Jijabai Marg, Lal Darwaja, Ahmedabad",
+			"description": "When it comes to monuments in Ahmedabad, Bhadra fort is one name that indeed deserves a special mention. Constructed in the year 1411 A.D. during the rule of Marathas, it was established by Sultan Ahmed Shah, the founder of Ahmedabad city. Bhadra fort in Ahmedabad is a royal fort that occupies the top most position in the Ahmedabad sightseeing tour. Read on to know more about Bhadra fort in Ahmedabad, India. Consisting of splendid palace and beautiful lush green garden, the charm of Bhadra fort is unbeatable. The fort is well known for the Bhadrakali temple that was built in the direction of Hindu Goddess ‘Bhadra’, a different form of Goddess Kali. In the present times, the fort more often serves as the venue for conducting flag hoisting ceremony during the occasion of Independence day & Republic day. Within the vicinity of the Bhadra fort, three are located a couple of Government offices. On the eastern side of the fort, lies the well known Teen Darwaza, which is another important tourist attraction spot in Ahmedabad. Bhadra fort, which is made by using the beautiful deep red stones, stands majestically even today. It is the maiden Muslim edifice that was constructed long back in the Ahmedabad city. The fort houses a magnificent palace, the arches and balconies of which are ornately embellished. People are of the belief that, Goddess Lakshmi had once visited the Bhadra fort and blessed the Sultan that, his city would always remain prosperous. Since times immemorial, people of Ahmedabad have been wealthy and infact, Ahmedabad has throughout been the hub of trade and commerce in the state of Gujarat."
+		},
+		{
+			"id": 3,
+			"title": "City Museum",
+			"address": " Near Sardar Bridge, National Institute of Design, B/S Tagore Hall, Paldi, Ahmedabad",
+			"description": "City Museum is among the most visited museums in Ahmedabad. This museum was built by french architect, Le Corbusier. This museum exhibits the important aspects and achievements of Ahmedabad. It was established on 5th April, 2000, and is also known as Atit ki Jhanki in the local language. This museum has a collection of medieval coins, land documents, Devnagari and Urdu scripts. Several Artifacts like art, pottery, woodcraft and frescoes of medieval India are exhibited in the museum. The museum also holds evidences of Industrial Revolution in Ahmedabad along with the items depicting effects of Gandhism in the city. Visitors can catch a glimpse of textiles like brocade, Chinese embroidery, carpets, tents and royal attire in this museum. Books and manuscripts that reveal information on religions like Jainism, Zoroastrianism and Jewism are also exhibited."
+		},
+		{
+			"id": 4,
+			"title": "Dada Hari Ni Vav",
+			"address": " Naroda Road, Haripura, Asarwa, Ahmedabad",
+			"description": "An ancient monument that depicts the art and craft of the bygone eras, Dada Hari vav were built during the reign of Mehmud Begda in the year 1501. This octagonal shaped step well was constructed as a tranquil retreat for the vacationer. Right from stamped floral caucuses to the wavy sculptures, each facets of Dada Hari vav is marvelously festooned. It’s highly ornamented arches, columns and panes shows exquisite carvings and classy design. Through these step wells boast of Muslim traditions, one can witness the handwork of Hindu artisans in its elaborate carving. Though worn out by the beatings of time, Dada Hari vav, still grabs large crowd who gathers there to perceive the fineness and splendor of bygone eras."
+		},
+		{
+			"id": 5,
+			"title": "Ghandhi Ashram",
+			"address": " Ahram Road, Old Vadaj, Ahmedabad",
+			"description": "For many years Ahmrdabad was the center of Mahatma Gandhi’s Non- violent struggle for India’s independence. The energy of that movement can still be felt at the Satyagraha Ashram that he established on the banks of the Sabarmati in 1917, after the previous Kochrab Ashram had to be abandoned because of a breakout of plague. He chose a location that was, at a time, far out of the city so that he could try farming and other such experiments. He learnt the art of spinning and weaving, and soon the Ashram began to buzz the Khadi, not just as a way of producing clothes, but also as a way of thought. The activity wanted when he moved to Sevagram Ashram near Wardha, Maharashtra, after the Namak Satyagraha, leaving the Ashram in the hands of the Harijan Sevak Sangh. You can get a sense of his life, the history of the movement and those who worked alongside him, at the Gandhi Smarak Sangrahalaya, a small museum that includes excellent pictorial and written documentation, a library of Gandhian literature and paintings, and an immense archive of letters written by Gandhiji, every single one on the back of used paper. The grounds includes the Hridaykunj, Gandhiji’s spares living quarters, Vinoba-Mira Kutir, where Vinoba and Mira each stayed on separate visits, a Prarthana bhumi a guest house and a building used as a training center for cottage industries, all preserved as part of the museum. The grounds are open from sunrise to sunset, but the best time to visit a ground is early morning, as the sun rises over the river, and people are in a meditative spirit. Tucked away on one side is also Manav Sadhna, a non-profit Gandhian organization dedicated to Seva. Many of the people who work or volunteer in the group live in the Ashram, which actually covers a lot more than just a preserved memorial grounds. Across the road is a whole residential neighborhood or families, many of which have elders who worked alongside Gandhiji, and have the history of the movement built into their houses, inevitably reaching the younger generations. Near the memorial grounds in the rest of the Ashram is environmental Sanitation institute, an organization that addresses waste-related diseases and ecologically minded sanitation, Kalam Kush, where beautiful hand-made paper is made, as well as spinning wheels and other equipment, three Khadi stores, and most recently, a khadi weaving workshop to re-educate people about the concept, resuscitating the activity after decades of lull following Gandhiji’s move on Sevagram Ashram. After the move, it may have seemed that the Ashram was no longer functioning, but generations later, the people who populate Manav Sudha, or work in the Ahram bookstore, or the fact that the new khadi workshop is run by the grandson of the couple who taught Gandhiji and his cohorts to make khadi, are all testament to the living legacy left behind."
+		},
+		{
+			"id": 6,
+			"title": "Gujarat Science City",
+			"address": "SG Highway, Ahmedabad",
+			"description": "Located off the Sarkhej Gandhinagar Highway, Science city is an ambitious initiative of the government of Gujarat to trigger an inquiry of science in mind of a common citizen when the aid of entertainment and experiential knowledge. Covering an area of more than 107 hectares, the idea is to create imaginative exhibits, virtual reality activity corners, and live demonstrations in an easily understandable manner. Currently the 3D-Imax Theater, musical dancing fountain, energy parks and simulation rides interest visitors. It is hoped that as this place develops, the investment helps to create awareness and sensitivity to better care for our ecology and people through use of science and technology. The park is open from 12-9 pm."
+		},
+		{
+			"id": 7,
+			"title": "ISCKON Temple",
+			"address": "Near Big Bazaar, Nr. Gujarat Samachar press, S. G. Highway, Ahmedabad",
+			"description": "The ISCKON Temple in Ahmedabad offers the perfect spot for mediation. The temple with its calm and peaceful atmosphere offers the perfect spot to spend some quiet time with oneself. You can attend the morning and the evening prayers sessions held over here. The analysis or the priests chant religious songs called Kirtans, during these prayers ceremonies. The temple hosts two main festivals, which are attended by a large number of people from across the state. One is ‘Janmastami’, the birthday of Lord Krishna. On this day a large number of people come to attend the Mangal Aarti, held in the evening, as well as the discourses from the Bhagvad Gita. Devotees give flowers, fruits, incense and sweets to the deities on the day. The entire temple is brightly illuminated and lavishly decorated on this day, decorated ceilings."
+		},
+		{
+			"id": 8,
+			"title": "Jama Masjid",
+			"address": "Jama Masjid, Near Pankor Naka, Gandhi Road, Pankore Naka, Ahmedabad",
+			"description": "Just west of Manek chowk stands the magnificent Jama Masjid (Friday Mosque), built in 1423 during the region of Ahmedabad’s founder Ahmed Shah I. While all around the mosque lies the hectic frenzy of the center of the old city, step through the gates (on the north, east and south sides) and the urban chaos falls away behind you standing in a refuge of profound serenity, accompained only by people in quiet prayer, and birds perching on the columns. The wide open courtyard, floored with white marble, is ringed by a columned arcade painted with giant Arabic calligraphy, and has a tank for ritual ablutions in the center. The mosque and arcades are built of beautiful yellow sandstone and carved with the intricate detail that mosques of this period are known for. While the two principal minarets flanking the main arched entranceway collapsed in the 1819 earthquake, their lower portions still stand. The main prayer hall has over 260 columns supporting the roof, with its 15 domes, making a walk through the hall a beautiful maze of light and shadows. In its Indo-Saracenic architecture, the mosque also many Syncretic elements not necessarily obvious to the viewer: some of the central domes are carved like lotus flowers, closely related to the typical domes of Jain temples; and some of the pillars are carved with the form of a bell hanging on a chain, in refrence to the bells that often hang in Hindu temples. On one of the innermost windows there is even a carving of an ‘Om’ symbol. Like at all religious sites, take proper care to be respectful of others beliefs; this is, after all, a current place of worship. Visitors are welcomed, but should maintain the quiet contemplative atmosphere, remove their shoes and not disturb those in prayer. During prayer times, you should keep your head covered and women should not enter the main hall."
+		},
+		{
+			"id": 9,
+			"title": "Kamla Nehru Zoo",
+			"address": "Zoo, Kankaria Lake, Kankaria, Ahmedabad",
+			"description": "Kamla Nehru Zoo which is popularly known as Kankaria Zoo is located at Kankaria, Ahmedabad. Designed by the famous zoological expert Reuben David, this zoo has been the abode of different animals, reptiles, birds and mammals belonging to different species. A part from housing the birds and beasts in a protective surrounding, the zoo authorities are also organizing programs like ‘friends of zoo’, which is aimed at encouraging the corporate professionals and individual to adopt animals to promote wildlife protection and disseminate information about wildlife among citizens. Visited by a large number of enthusiasts every year, this zoo renders serene and tranquil atmosphere through its lush greenery and rich varieties. It has also been an ideal for informal outings and picnics with friends and family members."
+		},
+		{
+			"id": 10,
+			"title": "Kankaria Lake",
+			"address": " Near Kankaria Zoo, Kankaria, ahmedabad",
+			"description": "A polygonal lake almost a mile in circumference, it was constructed in 1451 by Sultan Qutb-ud-Din. In the center of the lake is an island-garden with a summer place known as Nagina wadi. The lake is now a popular recreational center and is surrounded by parks, ‘Bal Vatika’, children’s gardens, a boat club, natural history museum and a zoo."
+		},
+		{
+			"id": 11,
+			"title": "Mini Amarnath Temple",
+			"address": "Near Swapna Srushti Water Park, Gandhinagar-Mahudi Road, Gram Bharti Cross-Road, Amrapur, Gujarat",
+			"description": "Amar Dham is one of the popular religious sites of Gujarat and locared in Ahmedabad. This is a famous pilgrimage and a familiar spot for the devout people who from every part of Gujarat come here to offer their prayers to the supreme God. Amar Dham is also a famous destination for the art lovers due to its unique rendering of architectural design. Besides being a prominent sacred place, the place has its own Architectural importance. A serene environment coupled with religious divinity and wonderful structural patterns attracts scores of people from across the country. At Amar Dham, people can spend their valuable time in a calm environment and enjoy the divine blessings as well."
+		},
+		{
+			"id": 12,
+			"title": "Rani Sipri’s Mosque",
+			"address": "Manek Chowk, Astodia, Ahmedabad",
+			"description": "Rani Sipris’s mosque Ahmedabad, along with Rani Rupmati’s mosque is in a league of its own. Rani Sipri’s mosque Ahmedabad in india with its exquisite architecture and interesting history, is now one of the most popular tourist attractions in Ahmedabad besides one of the prominent and well revered pilgrimages among the local Muslims. Thus, the mosque is one of the important holy places in Ahmedabad. Rani Sipri was one of the Hindu queens of the king of Ahmedabad. The Rani Sipri’s mosque was commissioned by Rani Sipri of Ahmedabad and speaks volume of the inter-religious marriage trend that became quite popular among the Indian royalty, to facilitate political alliance. The mosque is believed to have been built in 1514 AD by Rani Sipri, wife of Mehmud Begada who executed their son for a misdemeanor. The Mughal sultanate had under its rule a number of smaller local sultanates ruled by Muslim rulers."
+		},
+		{
+			"id": 13,
+			"title": "Sabarmati Riverfront",
+			"address": "Sabarmati Riverfront Walkway W, Narayan Nagar Society, Ahmedabad",
+			"description": "The Sabarmati Riverfront Development Projects is an initiative by the Ahmedabad Municipal Corporation to develop the Sabarmati riverfront in the city of Ahmedabad, India. It is being developed by the Sabarmati River front Development Corporation Limited (SRFDCL) that was established in May 1997 with a seed capital of INR1 crore(s) (US$180,000) and was charged with the responsibility of developing the approximately 10.4 km stretch along the river in the city. The project has encountered several delays due to concerns regarding water level, flooding, rehabilitation of displaced slum dwellers and met with severe opposition from activists involved with slum rehabilitation. However, the process of obtaining land for the development, through clearance and reclamation has been substantially completed. It is also the largest slum displacing project of the city till date."
+		},
+		{
+			"id": 14,
+			"title": "Sarkhej Roja",
+			"address": "Opp. Tagore Hall Paldi, Ahmedabad",
+			"description": "About 8 kms. From the city, Sarkhej comprises one of the most elegent architectural complexes of Ahmedabad. Grouped around a great stepped tank is the tomb to the saint, Ahmed Khattu Ganj Baksh (1445), the mosque, the tombs of mehmud Shah Begada and his queen and the palace and pavilions. The buildings are remarkable for the complete absence of arches and the use of pierced stone trellises throughout. "
+		},
+		{
+			"id": 15,
+			"title": "Shaking Minarets",
+			"address": "Sarangpur, Ahmedabad, Gujarat",
+			"description": "Also known as the Jhulta Minara, they are playful but with a whir of quivering mystery. They have left the best of architects and pioneering design engineers intrigued and in un-resolvable wonder. What they can’t unravel is when one minaret is shaken the other begins to vibrate, through the connecting passage between the two remains vibration-free; what causes this vibration is unknown. These are two well-known pairs of shaking Minarets in Ahmedabad, one located opposite the Sarangpur Darwaja and the other near the Kalupur Railway Station Area. The one near Sarangpur Darwaja is within the vicinity of the Sidi Bashir mosque built in 1452 AD by Sidi Bashir, a salve of Sultan Ahmed Shah. They are three storeys talls with carved balconies where visitors were once allowed to climb all the way up. The other set of Minarets near the Railway Station is taller in height. However, these aren’t in very good condition as it is believed that the British had dismantled them to understand the cause of vibrations. They couldn’t resolve the engineering and it wasn’t possible to put them back in their original condition. Demonstrations of the minarets shaking or vibrating aren’t carried out anymore."
+		},
+		{
+			"id": 16,
+			"title": "Sidi Saiyed’s Mosque",
+			"address": "Mirzapur Road, Mirzapur, near Lal Drawaja, Ahmedabad",
+			"description": "The Sidi Saiyed’s Mosque, built in 1573, is one of the most famous mosque of Ahmedabad. As attested by the marble stone tablet fixed on the wall of the mosque, it was built by Sidi Saeed or Sidi Saiyyed, an Abyssinian in the retinue of Bilal Jhahar Khan, general in the army of the last Sultan Shams-ud-Din Muzaffar Shah III of the Gujarat Sultanate. Sidi Saiyyed mosque. The mosque was built in the last year of the existence of Sultanate of Gujarat. The mosque is entirely arcuated and is famous for beautifully carved ted stone latticework windows (jalis) on the side and rear arches. The rear wall is filled with square stone pierced panels in geometrical designs. The two bays flanking the central aisle have reticulated stone slabs carved in designs of intertwined trees and foliage and a palm motif. This intricately carved stone window is the Siddi Sayyed jail, the unofficial symbol of city of Ahmedabad and the inspiration for the design of the logo of the Indian institute of Management Ahmedabad. The central window arch of the mosque, where one would except to see another intricate jail, is instead walled with stone. This is possibly because the mosque wasn’t completed according to plan before the Mughals invaded Gujarat. "
+		},
+		{
+			"id": 17,
+			"title": "Teen Darwaza",
+			"address": "Gandhi Road, Khadia, Ahmedabad",
+			"description": "Teen Darwaza is an architectural marvel, the beauty of which is surely going to leave you awestruck. Consisting of gorgeous arched gates, Teen Darwaza is one of the longest as well as the oldest gateways of the ahmedabad city. It was established in the year 141 A.D. by Sultan Ahmed Shah, who founded the city of Ahmedabad. Read on to know more about Teen Darwaza of Ahmedabad, India Lying Adjacent to the famous Bhadra fort, Teen Darwaza has been intricately carved. Initially, it served as an entrance to Royal Square at Bhadra fort. The great Mughal emperor Jahangir used to come here along with his beloved wife Noorjahan, to take a look at the procession that started from this grand gateway and went nonstop till Jama Masjid. The walls and pillars of Teen Darwaza are beautifully designed. Teen Darwaza of Ahmedabad, India is truly an epitome of the fine Islamic architecture. The windows of this fabulous monument are semi circular and adorned using mesh work. The central window depicts the tree of life. Five palm trees are shown that are covered with snakes. This portrayal also serves as the symbol of the Gujarat Government. This regal citadel is one of the most sought after tourist destinations in Ahmedabad."
+		},
+		{
+			"id": 18,
+			"title": "Vaishnodevi Temple",
+			"address": " Near Nirma University, SG Highway, Ahmedabad",
+			"description": "Strategically located on Gandhi Nagar road in Ahmedabad, the temple boasts of huge crowd round the year that includes devotees and tourists as well. Principle deity being Vaishno Devi the temple is considered to be a true replica of the famous temple in Jammu & Kashmir for what devotees of Goddess Vaishno Devi floch here round the year. The only difference between the two is that the latter can be visited within a couple of hours. The Vaishno Devi temple of Ahmedabad also remains flooded with followers during Navaratri and is decorated beautifully when the devotee offers coconut, clothes, fruits, rice etc...."
+		},
+		{
+			"id": 19,
+			"title": "Vastrapur Lake",
+			"address": "Nehru Park, Sangram Marg Road, Vastrapur, Ahmedabad",
+			"description": "A pictorial lake in a lustrous environment is a joyful visa and Vastrapur Lake in the western part of Ahmedabad is one of such alluring location. Encircled by all around greenery Vastrapur Lake is a must see spectacle in the city. Green lawns in the surrounding happen to be the most popular podium of various cultural events. A garden with elaborate stonework is an added attraction here. Water lovers can go for boating since, and the less adventurous can embark on a nice promenade through the nice pathway that Rounds the lake. The Lake looks so appealing at times when it is fed with the waters from the Narmada River. Let your children loose in the lush environ of the Vastrapur Lake and they will have enough to keep themselves engaged in the adjoining children’s park."
+		}
+	],
+	"boysHostel": [
+		{
+			"id": 1,
+			"title": "Jain Vidhyarthi Mandir",
+			"address": "16, Jain soc., Nr. Pritamnagar Akhada, Ellisbridge, Ahedabad, Gujarat-380006",
+			"contact": "(079) 26586981"
+		},
+		{
+			"id": 2,
+			"title": "Sardar Patel Seva Samaj",
+			"address": "IAS Training Center, Nr. Mithakhadi Six Road, Ellisbridge, Ahmedabad, Gujarat-380006",
+			"contact": "(079) 26406858"
+		},
+		{
+			"id": 3,
+			"title": "Ahmedabad Lohana Vidhyarthi Bhavan",
+			"address": "Bhudarpura, Ambavadi, Ahmedabad, Gujarat-380015",
+			"contact": "(079) 26463654"
+		},
+		{
+			"id": 4,
+			"title": "Sthanakvasi Jain Chhatralaya",
+			"address": "opp. Bank of India, Swastik Cross Road, Navrangpura, Ahmedabad, Gujarat-380009",
+			"contact": "(079) 26569585"
+		},
+		{
+			"id": 5,
+			"title": "L D Engineering Hostel",
+			"address": "L D College Premises, University Road, Navarangpura, Ahmedabad, gujarat-380009",
+			"contact": "(079) 26304758"
+		},
+		{
+			"id": 6,
+			"title": "Kachhi Leva Patel Samaj Hostel",
+			"address": "Opp. Shree Kamnath Mahadev, Nr. St Xaviors School, Navarangpura, Ahmedabad, Gujarat-380013",
+			"contact": "(079) 27911818"
+		},
+		{
+			"id": 7,
+			"title": "Deshi Lohana Vidhyarthi Bhavan",
+			"address": "Kankaria, Ahmedabad, Gujarat-380022",
+			"contact": "(079) 25453449"
+		},
+		{
+			"id": 8,
+			"title": "Shree Vishwakarma Mewada Chhatralaya Trust",
+			"address": "Nr. Commerce College Six Roads, Navrangpura, Ahmedabad, Gujarat-380009",
+			"contact": "(079) 27475213"
+		},
+		{
+			"id": 9,
+			"title": "Shree Ram Hostel",
+			"address": "Ff-7, Nirman-2002, Nr. R C Technical Institute, Ghatlodiya, Ahmedabad, Gujarat-380061",
+			"contact": "(079) 27413766"
+		},
+		{
+			"id": 10,
+			"title": "Gujarat Prajapati Chhatralaya",
+			"address": "T V Tower, Nr. Driven, Opp. Goyal Intercity, Thaltej, Ahmedabad, Gujarat-380054",
+			"contact": "(079) 27453612"
+		},
+		{
+			"id": 11,
+			"title": "B R Rajput College Hostel",
+			"address": "Navrangpura, Ahmedabad, Gujarat-380009",
+			"contact": "(098) 98303017"
+		},
+		{
+			"id": 12,
+			"title": "Gokul Hostel",
+			"address": "Sector 6, Ghatlodiya, Chankyapuri, Ahmedabad, Gujarat-380061",
+			"contact": "(084) 87040191"
+		},
+		{
+			"id": 13,
+			"title": "Gujarat College Boys Hostel",
+			"address": "Surendra Mangaldas Road, Ellisbridge, Ahmedabad, Gujarat-380006",
+			"contact": "(099) 30333605"
+		},
+		{
+			"id": 14,
+			"title": "Khrist Seva Sadan Boya Hostel",
+			"address": "Shahid Veer Kinariwala Marg, Ellisbridge, Ahmedabad, Gujarat-380006",
+			"contact": "9898644327"
+		},
+		{
+			"id": 15,
+			"title": "L.M. College of Pharmacy Boys Hostel",
+			"address": "Post Box No:4011, Navrangpura, Ahmedabad, Gujarat-380009",
+			"contact": "(079) 26302740"
+		},
+		{
+			"id": 16,
+			"title": "Narsinh Bhagat Hostel",
+			"address": "18-D, Akhada Road, Nr. Udupi Restaurant, Paldi, Ahmedabad, Gujarat-380007",
+			"contact": "(079) 26589231"
+		},
+		{
+			"id": 17,
+			"title": "Happy Home Boys Hostel",
+			"address": "Bopal, Ahmnedabad, Gujarat-380058",
+			"contact": "(076) 00347179"
+		},
+		{
+			"id": 18,
+			"title": "Civil Hospital Boya Hostel",
+			"address": "Civil Hospital Road, Haripura, Asarwa, Ahmedabad ,Gujarat-380016",
+			"contact": "(079) 22137827"
+		},
+		{
+			"id": 19,
+			"title": "Vaibhavya Boys Hostel",
+			"address": "403, 4th Floor, Bhavya Shopping Complex, Bhavya Park, Bopal Main Road, Bopal, Ahmedabad, Gujarat-380058",
+			"contact": "(090) 99048586"
+		},
+		{
+			"id": 20,
+			"title": "Ambika Hostel for Boys",
+			"address": "L-303/3632 M.G. Vasahat, Nr. Mahadev Temple, Nr. Nirma University, S.G. Highway, Gota, Jain Block, Vasantnagar, Ognaj, Ahmedabad, Gujarat-380060",
+			"contact": "(099) 74276263"
+		},
+		{
+			"id": 21,
+			"title": "Shiv Hostel",
+			"address": "Gota, Ahmedabad, Gujarat-382481",
+			"contact": "(099) 13772465"
+		},
+		{
+			"id": 22,
+			"title": "V.R.C. Boys Hostel",
+			"address": "Galaxy Avenue, Nr. Rajachandra Undes Bridge, ITI Road, Naroda, Ahmedabad, Gujarat-382345",
+			"contact": "(078) 78103161"
+		},
+		{
+			"id": 23,
+			"title": "Kelavnidham Boys Hostel",
+			"address": "Shree Leuva Patel Pragati Mandal Kumar Chatralay, B/H. D-Mart, Nikol-Naroda Road, New India Colony, Nikol, Ahmedabad, Gujarat-382350",
+			"contact": "null"
+		},
+		{
+			"id": 24,
+			"title": "Balaji Hostel",
+			"address": "2nd Floor Vijay Plaza, Professor's Colony, Sarvottam Nagar Soc., Navrangpura, Ahmedabad, Gujarat-380009",
+			"contact": "(079) 49015852"
+		},
+		{
+			"id": 25,
+			"title": "FOLK Hostel",
+			"address": "Ratna 2, Trimurti Soc., Gulbai Tekra, Ahmedabad, Gujarat-380006",
+			"contact": "(089) 05409657"
+		},
+		{
+			"id": 26,
+			"title": "SGVP Dharmajivanam Hostel",
+			"address": "S.G. Highway, Opp. Nirma University Chardi, Ahmedabad, Gujarat-382481",
+			"contact": "(027) 17241991"
+		},
+		{
+			"id": 27,
+			"title": "Mahavir Vidhyalay",
+			"address": "12, Paldi, Ahmedabad, Gujarat-380007",
+			"contact": "(079) 26584352"
+		},
+		{
+			"id": 28,
+			"title": "Sathvana Vidhyarthi Bhavan",
+			"address": "Sardar Colony, Ahmedabad, Gujarat-380013",
+			"contact": "(080) 00313186"
+		},
+		{
+			"id": 29,
+			"title": "Zalawadi Saisuthar Vidhyarthi Bhavan Samiti",
+			"address": "Commerce College Road, Vasant Vihar, Navrangpura, Ahmedabad, Gujarat-380009",
+			"contact": "(079) 26440629"
+		}
+	],
+	"girlsHostel": [
+		{
+			"id": 1,
+			"title": "Saint Xavier's Womens Hostel",
+			"address": "Swastik cross road, Opp. Fairdeal house, Navrangpura, Ahmedabad, Gujarat-380009",
+			"contact": "(079) 26405649"
+		},
+		{
+			"id": 2,
+			"title": "Gujarat University Girls Hostel",
+			"address": "University Area, Navrangpura, Ahmedabad, Gujarat-380009",
+			"contact": "(079) 26301416"
+		},
+		{
+			"id": 3,
+			"title": "VGEC Girls Hostel",
+			"address": "New CG Road, Chandkheda, Ahmedabad, Gujarat-382424",
+			"contact": "(079) 29099903"
+		},
+		{
+			"id": 4,
+			"title": "C H Bhagat Working Women Hostel",
+			"address": "Dhumketu Marg, B/h. Dalal Apartment, Paldi, Ahmedabad, gujarat-380007",
+			"contact": "(079) 26611180"
+		},
+		{
+			"id": 5,
+			"title": "Radhekrishna Girls Hostel",
+			"address": "Opp. Stock Exchange ,B/S Sahjanand College, Ambavadi, Ahmedabad, Gujarat-380015",
+			"contact": "(079) 26301434"
+		},
+		{
+			"id": 6,
+			"title": "Navrangpura Ladies Hostel",
+			"address": "Opp. Fairdeal House, Swastik Cross Road, navrangpura, Ahmedabad, Gujarat-380009",
+			"contact": "(079) 26561497"
+		},
+		{
+			"id": 7,
+			"title": "R B D Working Women Hostel",
+			"address": "Fatehpura Police Station, Opp. Anandnagar Post Office, Fatehpur, Ahmedabad, Gujarat-380007",
+			"contact": "(079) 26632886"
+		},
+		{
+			"id": 8,
+			"title": "Shree Saibaba Hostel",
+			"address": "D-Cabin, Chandkheda, Ahmedabad, Gujarat-380019",
+			"contact": "(079) 27518643"
+		},
+		{
+			"id": 9,
+			"title": "S.P. Hostel",
+			"address": "Navrangpura Road, Shimali Soc., Ahmedabad, Gujarat-380009",
+			"contact": "(079) 26307099"
+		},
+		{
+			"id": 10,
+			"title": "Omkara 1 Hostel For Girls",
+			"address": "Nr. Adani Pratham, B/H Nirma University, Ahmedabad, Gujarat-382481",
+			"contact": "(099) 25151640"
+		},
+		{
+			"id": 11,
+			"title": "Mahavir Vidhyalaya",
+			"address": "Sheth D J Vidhyarthi Gruh, Opp. Paldi Bus Stop, Paldi, Ambavadi, Ahmedabad, Gujarat-380006",
+			"contact": "(079) 26579953"
+		},
+		{
+			"id": 12,
+			"title": "Apang Manav Mandal",
+			"address": "Opp. Kamla Kamdhenu Hall, Drive IN Road, Bodakdev, Ahmedabad, Gujarat-380052",
+			"contact": "(079) 27913252"
+		},
+		{
+			"id": 13,
+			"title": "Bhavin Girls Hostel",
+			"address": "Mirambica School Road, Jivanmurti Soc., Naryanpura, Ahmedabad, Gujarat-380013",
+			"contact": "(096) 87475252"
+		},
+		{
+			"id": 14,
+			"title": "Sardar Patel Bhavan Girls Hostel",
+			"address": "Karmchari Nagar, Ahmedabad, Gujarat-380061",
+			"contact": "(094) 26015083"
+		},
+		{
+			"id": 15,
+			"title": "S M G Girls Hostel",
+			"address": "B/H. Navgujarat College, Usmanpura, Ahmedabad, Gujarat-380014",
+			"contact": "(079) 27542626"
+		},
+		{
+			"id": 16,
+			"title": "Skum Hostel",
+			"address": "Sunrise Park, Gurukul, Ahmedabad, Gujarat-380052",
+			"contact": "(079) 26854671"
+		},
+		{
+			"id": 17,
+			"title": "Smt. NHL Municipal Medical College",
+			"address": "Kocharab, Paldi, Ellisbridge, Ahmedabad, Gujarat-380006",
+			"contact": "(079) 26578452"
+		},
+		{
+			"id": 18,
+			"title": "Master Crest",
+			"address": "43 Swastik Soc., Opp. Vipul Dudhiya off C.G. Road, Navrangpura, Ahmedabad, Gujarat-380009",
+			"contact": "(098) 25007854"
+		},
+		{
+			"id": 19,
+			"title": "Aashar Girls Hostel",
+			"address": "Moters, Ahmedabad, Gujarat-380005",
+			"contact": "(098) 24626500"
+		}
+	],
+	"pg": [
+		{
+			"id": 1,
+			"title": "B.C. Jain PG",
+			"address": "2nd Floor, Olway House, Gurukul road, Ahmedabad, Gujarat-380058",
+			"contact": "9376008305"
+		},
+		{
+			"id": 2,
+			"title": "Tulsi PG For Boys",
+			"address": "4th Floor, Komer Complex, Opp. Ocean Park, Nr. Nehrynagar circle, Satelite, Ahmedabad, Gujarat-380015",
+			"contact": "9687643325"
+		},
+		{
+			"id": 3,
+			"title": "RK Homes, PG for Girls",
+			"address": "F/4 Landmark Apartment, Opp. Stock Exchange, Nr. Sahjanand College, Ambavadi, Ahmedabad, Gujarat-380015",
+			"contact": "9925244754"
+		},
+		{
+			"id": 4,
+			"title": "Sanskar PG and Hostel",
+			"address": "B-1, Kamal Nayan Apartment, Nr. Klassic Gold Hotel, C G Opp. Sun Square Building, 25 Soc., Chimanlal Girdharlal Road, Sardar Patel Nagar, Ahmedabad, Gujarat-380009",
+			"contact": "(098) 98010870"
+		},
+		{
+			"id": 5,
+			"title": "Raj PG",
+			"address": "Ambavadi, Ahmedabad, Gujarat-380015",
+			"contact": "(099) 74617525"
+		},
+		{
+			"id": 6,
+			"title": "P G Accommodation",
+			"address": "1, Swami Shree Devendra Soc., Ambavadi,. Ahmedabad, Gujarat-380015",
+			"contact": "(092) 27680010"
+		},
+		{
+			"id": 7,
+			"title": "Lakhiya PG",
+			"address": "11 Thakorpark Soc., Nr. Fatehpura Bus Stop, Fatehpura, Paldi, Ahmedabad, Gujarat-380007",
+			"contact": "(098) 25451702"
+		},
+		{
+			"id": 8,
+			"title": "Amola Foilage Sejal Ben PG",
+			"address": "4, Krupashankar Joshi Marg, Mithakhadi, Navrangpura, Ahmedabad, Gujarat-380009",
+			"contact": "9712599966"
+		},
+		{
+			"id": 9,
+			"title": "OM Sai PG",
+			"address": "D-503 Regency Tower, Vastrapur, Ahmedabad, Gujarat-380015",
+			"contact": "9824254126"
+		},
+		{
+			"id": 10,
+			"title": "Mast PG for Boys",
+			"address": "H-401 Ashok Vihar,   Chandkheda, Ahmedabad, Gujarat-382424",
+			"contact": "7698453171"
+		},
+		{
+			"id": 11,
+			"title": "Fully Furnished PG for Boys",
+			"address": "4 AC, Evrgreen Bunglows, Kabir Road, B/H. Kabir Enclave, Bopal, Ahmedabad, Gujarat-380058",
+			"contact": "9173792093"
+		},
+		{
+			"id": 12,
+			"title": "Premium PG for Girls",
+			"address": "Koteshwar-Bhat Road, Chandkheda, Ahmedabad, Gujarat-382424",
+			"contact": "9723510600"
+		},
+		{
+			"id": 13,
+			"title": "Januson PG for Boys",
+			"address": "Saaga, B/H. Nirma University, Tragad, S.G. Highway, Ahmedabad, Gujarat-380054",
+			"contact": "9820032511"
+		},
+		{
+			"id": 14,
+			"title": "Boys PG ",
+			"address": "B-18, Tapan Tenaments, Opp. Someshwar Park, Gulab Tower Road, Satadhar Cross Road, Ahmedabad, Gujarat-380061",
+			"contact": "8866796126"
+		},
+		{
+			"id": 15,
+			"title": "Maximum PG Accommodation",
+			"address": "Second Floor, Shreekunj Apartment, Nehrunagar Cross Road, Ambavadi, Ahmedabad, Gujarat-380006",
+			"contact": "9998883232"
+		},
+		{
+			"id": 16,
+			"title": "No.1 Patel PG for Boys",
+			"address": "Jaymangal Complex, Judges Bunglows, Bodakdev, Ahmedabad, Gujarat-380054",
+			"contact": "9228220838"
+		},
+		{
+			"id": 17,
+			"title": "Sai Krupa Accommodation",
+			"address": "I-204, 2nd Floor, Sarjan Tower, Gurukul Road, Gurukul, Ahmedabad, Gujarat-380052",
+			"contact": "9662111122"
+		},
+		{
+			"id": 18,
+			"title": "PG for Boys and Girls",
+			"address": "Shubham Apartments, Satelite, Jodhpur Tekra, Ahmedabad, Gujarat-380015",
+			"contact": "9998241191"
+		},
+		{
+			"id": 19,
+			"title": "Ravi Hostel",
+			"address": "B-52, Garden City Bunglows, Greenworld Lake Resort, Nr. Ring Road, S.G. Highway, Ahmdeabad, Gujarat-382481",
+			"contact": "9601481390"
+		},
+		{
+			"id": 20,
+			"title": "Vijay PG",
+			"address": "4 Sun-set Appartment, Opp. Row House, Gurukul , Ahmedabad, Gujarat-380052",
+			"contact": "9662758212"
+		},
+		{
+			"id": 21,
+			"title": "Perfect PG",
+			"address": "Gulbai Tekra, Nehrunagar, University Area, Navrangpura, Ahmedabad, Gujarat-380009",
+			"contact": "8866773773"
+		},
+		{
+			"id": 22,
+			"title": "Patel Organization",
+			"address": "F-8, Nidhi Complex, Judges Bunglow Road, Bodakdev, Ahmedabad, Gujarat-380015",
+			"contact": "7567666766"
+		},
+		{
+			"id": 23,
+			"title": "Sterling PG",
+			"address": "101, 1st Floor, Saman Complex, Premchand NAgar ROad, Nr. Mansi Circle, Opp. Satyam Mall, Satelite, Ahmedabad, Gujarat-380015",
+			"contact": "8733896773"
+		},
+		{
+			"id": 24,
+			"title": "Prime Acommodation",
+			"address": "Vastrapur, Ahmedabad, Gujarat-380015",
+			"contact": "8000918911"
+		}
+	],
+	"artsCollege": [
+		{
+			"id": 1,
+			"title": "Smt. S.R. Mehta Arts College",
+			"address": "Navgujarat Campus Opp. Gujarat Vidhyapith, Ashram Road, Ahmedabad, Gujarat",
+			"contact": "(079) 27543459"
+		},
+		{
+			"id": 2,
+			"title": "Smt. R.B. Patel Arts College",
+			"address": "P.T.C College Campus, Sanand, Ahmedabad, Gujarat",
+			"contact": " 9327012017"
+		},
+		{
+			"id": 3,
+			"title": "Smt. Laxmiben and chimanlal mehta Arts College",
+			"address": "Opp. Law Garden, Ellisbridge, Ahmedabad, Gujarat",
+			"contact": " (079) 26445471"
+		},
+		{
+			"id": 4,
+			"title": "Smt. A.P. Patel Arts college",
+			"address": "(Near Narayan Nagar) Naroda, Ahmedabad, Gujarat",
+			"contact": "(079) 22815858"
+		},
+		{
+			"id": 5,
+			"title": "Shri S.K. Shah and Shri Krishna O.M. Arts College",
+			"address": "Pilvai, Ahmedabad, Gujarat",
+			"contact": " 9428047489"
+		},
+		{
+			"id": 6,
+			"title": "Shri L.V. Upadhyay Sabarmati Arts College",
+			"address": "Near Gram Panchayat, Ramnagar, Sabarmati, Ahmedabad, Gujarat",
+			"contact": "9824000709"
+		},
+		{
+			"id": 7,
+			"title": "Saraspur Arts College",
+			"address": "Relief Road, Pathhar kuva, Ahmedabad, Gujarat",
+			"contact": "9898290230"
+		},
+		{
+			"id": 8,
+			"title": "S.V Arts College",
+			"address": "Relief Road, Ahmedabad, Gujarat",
+			"contact": "9825557563"
+		},
+		{
+			"id": 9,
+			"title": "R.H. Patel Arts College",
+			"address": "B/h. Vyas Vadi, Navawadaj, Ahmedabad, Gujarat",
+			"contact": "9824233234"
+		},
+		{
+			"id": 10,
+			"title": "P.T. Arts College",
+			"address": "Narayan Nagar Road, Paladi, Ahmedabad, Gujarat",
+			"contact": "9714501165"
+		},
+		{
+			"id": 11,
+			"title": "Mula Educationj Society Arts College",
+			"address": "A/P-Sonai, Tal-Newasa, Ahmedabad, Gujarat",
+			"contact": "(02427) 231384"
+		},
+		{
+			"id": 12,
+			"title": "Menaba Bababhai Patel Rashtrabhasha Arts College",
+			"address": "Nr. Nagri Hospital, Ellisbridge, Ahmedabad, Gujarat",
+			"contact": "(02427) 231384"
+		},
+		{
+			"id": 13,
+			"title": "M.P. Arts College for Women",
+			"address": "Outside Raipur Gate, Ahmedabad, Gujarat",
+			"contact": "9898878003"
+		},
+		{
+			"id": 14,
+			"title": "L.D. Arts College",
+			"address": "Amrutlal Hargovandas Campus, Commerce Six Road, Navrangpura, Ahmedabad, Gujarat",
+			"contact": " (079) 26302260"
+		},
+		{
+			"id": 15,
+			"title": "L and C Mehta Arts College",
+			"address": "GLS Campus, Opp. Law Garden, Ellisbridge, Ahmedabad, Gujarat",
+			"contact": " (079) 26445471 "
+		},
+		{
+			"id": 16,
+			"title": "Government Arts College",
+			"address": "Shree K.K. Shastri Educational Complex Maninagar, Ahmedabad, Gujarat",
+			"contact": " (079) 22932516"
+		},
+		{
+			"id": 17,
+			"title": "F.D. Arts College for Women",
+			"address": "Near Jamalpur Gate Jamalpur, Ahmedabad, Gujarat",
+			"contact": "(079) 25322098"
+		},
+		{
+			"id": 18,
+			"title": "C.U. Shah Arts College",
+			"address": "Lal Darwaja, Ahmedabad, Gujarat",
+			"contact": "(079) 25506703"
+		},
+		{
+			"id": 19,
+			"title": "B.D. Arts College for Women",
+			"address": "Opp. Dinbai Tower, Lal Darwaja, Ahmedabad, Gujarat",
+			"contact": "(079) 25510211"
+		}
+	],
+	"commerceCollege": [
+		{
+			"id": 1,
+			"title": "Smt. Late Shree N.P. Patel Commerce College",
+			"address": "(Near Narayan Nagar) Naroda, Ahmedabad, Gujarat",
+			"contact": "(079) 22815858"
+		},
+		{
+			"id": 2,
+			"title": "Shri L.V. Upadhyay Sabarmati Commerce College",
+			"address": " Near Gram Panchayat, Ramnagar, Sabarmati, Ahmedabad, Gujarat",
+			"contact": "9824000709"
+		},
+		{
+			"id": 3,
+			"title": "Saraspur Commerce College",
+			"address": "Relief Road, Pathhar kuva, Ahmedabad, Gujarat",
+			"contact": "9898290230"
+		},
+		{
+			"id": 4,
+			"title": "R.H. Patel Commerce College",
+			"address": "B/h. Vyas Vadi, Navawadaj, Ahmedabad, Gujarat",
+			"contact": "9824233234"
+		},
+		{
+			"id": 5,
+			"title": "P.T. Commerce College",
+			"address": "Narayan Nagar Road, Paladi, Ahmedabad, Gujarat",
+			"contact": "9714501165"
+		},
+		{
+			"id": 6,
+			"title": "Mula Educationj Society Commerce College",
+			"address": "A/P-Sonai, Tal-Newasa, Ahmedabad, Gujarat",
+			"contact": " (02427) 231384"
+		},
+		{
+			"id": 7,
+			"title": "Menaba Bababhai Patel Rashtrabhasha Commerce College",
+			"address": "Nr. Nagri Hospital, Ellisbridge, Ahmedabad, Gujarat",
+			"contact": "(079) 26464510"
+		},
+		{
+			"id": 8,
+			"title": "M.H Commerce College for Women",
+			"address": "Nr. Nagri Hospital, Ellisbridge, Ahmedabad, Gujarat",
+			"contact": "9898878003"
+		},
+		{
+			"id": 9,
+			"title": "F.D. Commerce College for Women",
+			"address": "Near Jamalpur Gate Jamalpur, Ahmedabad, Gujarat",
+			"contact": "(079) 25322098"
+		},
+		{
+			"id": 10,
+			"title": "G B Shah Commerce College",
+			"address": "Narayan Nagar Soc., Vasna, Ahmeadabad, Gujarat-380007",
+			"contact": "(079) 26605232 "
+		},
+		{
+			"id": 11,
+			"title": "Sheth Damodar School Of Commerce",
+			"address": "Gujarat university, Navrangpura, University Area, Ahmedabad, Gujarat-380009",
+			"contact": " (079) 27912970"
+		},
+		{
+			"id": 12,
+			"title": "Som-Lalit College Of Commerce",
+			"address": "SLIMS Campus, St. Xavier's Corner, Univeersity road, Navarangpura, Opp. St. Xavier's College, University area, ahmeadabad, Gujarat-380009",
+			"contact": " (079) 26303301"
+		},
+		{
+			"id": 13,
+			"title": "P.D. Pandya Mahila Commerce College",
+			"address": "Nr. Muktjivan Smurti Mandir, Ghodasar, Ahmeadabad, Guajarat-382445",
+			"contact": "(079) 25898686"
+		},
+		{
+			"id": 14,
+			"title": "H.L. Institute Of Commerce (HLIC)",
+			"address": "H.L.Campus, Commerce Six roads, Vasant Vihar, Navarangpura, Ahmeadabad,",
+			"contact": "(079) 26468231"
+		}
+	],
+	"scienceCollege": [
+		{
+			"id": 1,
+			"title": "K.K. Shastri Government Science College",
+			"address": "K.K. Shastri Educational Campus, Khokhra Road, Maninagar, Ahmedabad, Gujarat",
+			"contact": "(079) 22934008"
+		},
+		{
+			"id": 2,
+			"title": "RG Shah Science College",
+			"address": "Narayan Nagar, Ahmedabad, Gujarat ",
+			"contact": " (079) 26608226"
+		},
+		{
+			"id": 3,
+			"title": "B.J. Medical College",
+			"address": "Asarwa, New Civil Hospital, Ahmedabad, Gujarat",
+			"contact": "(079) 22683067"
+		},
+		{
+			"id": 4,
+			"title": "M.G. Science Institute",
+			"address": "Dada Saheb Manlankar Campus, Opp.Gujarat Universtity, Navrangpura, Ahmedabad, Gujarat",
+			"contact": " (079) 26302872"
+		},
+		{
+			"id": 5,
+			"title": "K.K. Shah Jarodwala Maninagar Science College",
+			"address": "Rambaug Maninagar, Ahmedabad, Gujarat",
+			"contact": "(079) 26300242"
+		},
+		{
+			"id": 6,
+			"title": "C.U. Shah Science College",
+			"address": "Near Gujarat Vidyapeeth, Incometax circle, Ashram road, Ahmedabad, Gujarat",
+			"contact": "(079) 25461060"
+		},
+		{
+			"id": 7,
+			"title": "Bhavan’s Sheth Ranchhodlal Acharatlal College of Science",
+			"address": "Bhavan’s College Campus Vidyaguri Nilkanth Marg, Khanpur, Ahmedabad, Gujarat",
+			"contact": " (079) 30070006"
+		},
+		{
+			"id": 8,
+			"title": "Gujarat Science College",
+			"address": "Ellisbridge, Ahmedabad, Gujarat",
+			"contact": " (079) 25600311"
+		},
+		{
+			"id": 9,
+			"title": "St. Xavier’s College",
+			"address": "Po.Box No.4168, Navrangpura, Ahmedabad, Gujarat",
+			"contact": " (079) 26446939"
+		}
+	],
+	"engineeringCollege": [
+		{
+			"id": 1,
+			"title": "L D College of Engineering",
+			"address": "No.120, Circular Road, University Area, Navarangpura, Opp.Gujarat University,Ahmedabad,Gujarat-380015",
+			"contact": "(079) 26306752"
+		},
+		{
+			"id": 2,
+			"title": "Silver Oak College of Engineering and Technology",
+			"address": "352, 353 A, Nr. Bhavik Publications, Opp. Bhagwat Vidyapith, S.G.Highway, Ahmedabad, Gujarat-380061",
+			"contact": "(079) 66046304"
+		},
+		{
+			"id": 3,
+			"title": "Government Polytechnic for Girls",
+			"address": "Opp. Physical Research Laboratory, Nr. Atira Navrangpura, Ahmedabad, Gujarat-380015",
+			"contact": " (079) 26301581"
+		},
+		{
+			"id": 4,
+			"title": "Hasmukh Goswami College of Engineering",
+			"address": "Naroda-Dehgham road, Vahlelal-Dascroi, Ahmedabad, Gujarat-382330",
+			"contact": " 9662276606"
+		},
+		{
+			"id": 5,
+			"title": "Vishwakarma Government Engineering College",
+			"address": "Sabarmati-koba Highway, Nr. Visat Three Roads, Chandkheda, Ahmedabad, Gujarat-382424",
+			"contact": "(079) 29099903"
+		},
+		{
+			"id": 6,
+			"title": "School of Engineering & Applied Science (SEAS) Ahmedabad University",
+			"address": "Opp. AG School Campus, Nr. Commerce Six Roads, Navrangpura, Ahmedabad, Gujarat-380009",
+			"contact": "(079) 69402800"
+		},
+		{
+			"id": 7,
+			"title": "Institute of Infrastructure Technology Research and management",
+			"address": "Nr. Khokhara Circle, Maninagar East, Ahmedabad, Gujarat-380026",
+			"contact": "(079) 29292910"
+		},
+		{
+			"id": 8,
+			"title": "MAP Ahmedabad Institute of Aeronautical Enginnering & Information Technology",
+			"address": "Nr. Silver Oak Club, B/h. Bhavik Publication, S.G. Highway, Gota, Highway Park Soc., Sabarmati, Ahmedabad, Gujarat-382481",
+			"contact": "(079) 65258833"
+		},
+		{
+			"id": 9,
+			"title": "Apollo Group of Institute",
+			"address": "SNME Campus, Nr. S.P.Ring road Circle, GJ SH 68, Nava Naroda, Enasan, Gujarat-382330",
+			"contact": "(02718) 240233"
+		},
+		{
+			"id": 10,
+			"title": "CEPT University",
+			"address": "kasturbhai Lalbhai Campus, university Road",
+			"contact": " (079) 26302470"
+		},
+		{
+			"id": 11,
+			"title": "Nirma University",
+			"address": "kasturbhai Lalbhai Campus, university Road",
+			"contact": " (02717) 241900"
+		},
+		{
+			"id": 12,
+			"title": "School of Engineering and Applied Science University",
+			"address": " Navrangpura, Ahmedabad, Gujarat-380009",
+			"contact": " (079) 69402800"
+		},
+		{
+			"id": 13,
+			"title": "Indus University",
+			"address": "kasturbhai Lalbhai Campus, university Road, Navrangpura, Ahmedabad, Gujarat-380009",
+			"contact": "(02764) 260277"
+		},
+		{
+			"id": 14,
+			"title": "Dhirubhai Ambani Institute of Information And Communication Technology",
+			"address": "Sarkhej-Gandhinagar Highway, Ahmedabad, Gujarat-382481",
+			"contact": "(079) 30520000"
+		}
+	],
+	"atm": [
+		{
+			"id": 0,
+			"title": "Allahabad Bank ATM",
+			"location": [
+				"Om Towers, Nr. Star Bazar, Satellite Road, Satellite, Ahmedabad, Gujarat-380015",
+				"Asarwa, Ahmedabad, Gujarat-380016",
+				"Bhagwat Chambers, Opp. Gujarat Vidhyapith, ashram Road, Usmanpura, Ahmedabad, Gujarat-380014",
+				"Shop No.14 to 16, First Floor, B Karnavati Pagarkha Bazar, Satyasurya Cpmplex, Satthadhar Road, Shenbai Nagar, Ahmedabad, Gujarat-380061",
+				"Bodakdev, Ahmedabad, Gujarat-380054",
+				"Relief Road, Ratan Pole, Khadia, Ahmedabad, Gujarat-380001",
+				"G-5 Highway Branch, G-1-2, Platinum Plaza, Judges Bunglow Road, Bodakdev, Ahmedabad, Gujarat-380054",
+				"21/22, Vikas Gruh Road, Fatehpur Gam, Motinagar Soc., Paldi, Ahmedabad, Gujarat-380007",
+				"Galaxy Road, Chandresh Soc., Makarpura, GIDC Naroda, Ahmedabad, Gujarat-382330",
+				"Mangabayag Square, Sarswati Primary School, Maninagar Road, Archna Soc., Vijay Char Rasta, Maninagar, Ahmedabad, Gujarat-380008"
+			]
+		},
+		{
+			"id": 1,
+			"title": "Axis Bank ATM",
+			"location": [
+				"Opp. Nehru Bridge, Nr. Neptune Complex, Ashram Road, Ellisbridge, Ahmedabad, Gujarat-380009",
+				"Shop No.22, MP Badshah Chambers, Opp. VS Hospital, Ellisbridge, Paldi, Ahmedabad, Gujarat-380006- 4, Neel Complex, Nr. Handloom House, 132 Ft Ring Road, Nava Vadaj, Ahmedabad, Gujarat-380013",
+				"Vijay Char Ratsa, Bhumi Complex, Sarvottam Nagar Soc., Navrangpura, Ahmedabad, Gujarat-380009",
+				"Shilalekh, Nehru Park Circle, Vastrapur, Ahmedabad, Gujarat-380015",
+				"F-4, Supath-2 Copmplex, Nr. St Laurn Hotel, Usmanpura, Old Vadaj, Ahnmedabad, Gujarat-380013",
+				"53, Niharika Park, Nr. Patel Soc., Boriwadi Pol, Shahpur, Ahmedabad, Gujarat-380001",
+				"3, Upper Level 1, Ground Floor, Divyalok Complex, Nava Vadaj Road, Opp. ADC Bank, Sardar Colony, Ahmedabad, Gujarat-380013",
+				"Nr. Main gate Of Jilla Panchayat, Jilla Panchayat Building, Lal Darwaja, Ahmedabad, Gujarat-380001",
+				"IIM Ahmedabad, New Campus, I I M, Vastrapur, Ahmedabad, Gujarat-380015",
+				"1, Utsav Shop & Flats, Bus Stop Old aradhana School, Daxini Soc., Maninagar, Ahmedabad, Gujarat-380008",
+				"Shop No.8, Shashwat Arcade, Bhulabhai PArk, Municipal Servant Soc., Kankaria, Ahmedabad, Gujarat-380008",
+				"Shop No.55, Devnandan Flat And Shopping Center, Changodar, Chanakyapuri, Ahmredabad, Gujarat-380013",
+				"Danapith Road, Raipur, Khadia, Ahmedabad, Gujarat-380001",
+				"Shop NO.2, Suryadev 2, Pawapuri Circle, Ghatlodiya, Ahmedabad, Gujarat-380061",
+				"Abhishree Avenue, Nr. Nehrunagar Cross Road, Ambavadi, Ahmedabad, Gujarat-380050",
+				"AG/5 Goyal Complex, B/H. Sandesh Press Lad Soc. Road, Vastrapur, Ahmedabad, Gujarat-380015",
+				"Nr. Vihar Ahar stall, Concourse Hall, Broad Guage Side, Beside Railtail Cyber Cafe, Railway Station, Sakar Bazzar, Kalupur, Ahmedabad, Gujarat-380002",
+				"2, Sunbridge Tower, Opp. A One School, Subhash Road, Gurukul, Sarathi Co-Operative Housing Soc., Memnagar, Ahmedabad, Gujarat-380052",
+				"Nilkanth Plaza, Opp. Madhupur Market Police Commissionar Road, Jain Colony, Shahibag, Ahmedabad, Gujarat-380004",
+				"Shop No.LL5, Temple Avenue, Dharnidhar Circle, 132 Ft Road, Lavanya Soc., Vasna, Ahmedabad, Gujarat-380007"
+			]
+		},
+		{
+			"id": 2,
+			"title": "Bank Of Baroda ATM",
+			"location": [
+				"Plot No.25, Nr. Income Tax Under Bridge, Navjeevan Post, Navrangpura Gam, Navrangpura, Ahmedabad, Gujarat-380014",
+				"Plot No.411, Pritamnagar's 1st Dhal, I P Mission, Ellisbridge, Ahmedabad, Gujarat-380006",
+				"@Maninagar Railway Station, Maninagar, Ahmedabad, Gujarat-380008",
+				"28, Akshar Arcade, Opp. Memnagar Fire Station, Memnagar, Ahmedabad, Gujarat-380009",
+				"Paldi Road, Kochrab, Paldi, Ahmedabad,Gujarat-380006",
+				"Dudheshwar Road, Chinai Begestate, Nr. Water Tank, Jain Colony, Shahibag, Ahmedabad, Gujarat-380004",
+				"1111, Relief Road, Panchkuwa, Tankshal, Khadia, Ahmedabad, Gujarat-380001",
+				"Plot No.31, Sukhsagar Complex, opp. Dinesh Chamber, Bapunagar, Ahmedabad, Gujarat-380025",
+				"Yashkamal Soc., Vasna, Ahmedabad, Gujarat-380007",
+				"Mile Stone Building, Nr. Drive-in Cinema Thaltej, Ahmedabad, Gujarat-380054",
+				"Rita Nagar, Amraiwadi, Ahmedabad, Gujarat-380008",
+				"Swami Vivekananda Road, Astodia, Khamasa, Ahmedabad, Gujarat-380001",
+				"Bhulabhai Park Cross Road, Gitamandir, Bhavna Colony, Behrampura, Ahmedabad, Gujarat-380022",
+				"Plot No.9-11, Prem Chander Nagar Road, Sagar Complex, Opp. Satellite Plaza, Jayma Soc., Satellite, Ahmedabad, Gujarat-380015",
+				"Opp. Girdharlal Nagar Bus Stop, Narmadashanker Road, Girdhar Nagar, Ahmedabad, Gujarat-380004",
+				"Kalupur Railway Station, Dhalgarwad, Kalupur, AHmedabad, Gujarat-380001",
+				"Nr. Manekbaug Hall, Opp. Manekbaug BRTS Stop, 120 Ft Ring Road, Tapovan Soc., Ambawadi, Ahmedabad, Gujarat-380015",
+				"Seema Hall, Anandnagar Road, Jodhpur, Ahmedabad, Gujarat-380051",
+				"Sarvodaya Nagar, Ghatlodiya, Ahmedabad, Gujarat-380061",
+				"Saraspur Char Rasta, Saiyad Naidu Marg, Kadiawad, Saraspur, Ahmedabad, Gujarat-380018"
+			]
+		},
+		{
+			"id": 3,
+			"title": "Bank Of India ATM",
+			"location": [
+				"Sahajanand Complex, Opp. Rajasthan Hindi High School, Dr. Ambedkar Road, Dudheshwar, Ahmedabad, Gujarat-380004",
+				"Part Of Anil Electronics, Relief Road, Zaveriwad, Kalupur, Ahmedabad, Gujarat-380001",
+				"R3 Mall, Opp. Manav Mandir, Drive In Road, Memnagar, Ahmedabad, Gujarat-380054",
+				"Nr. V.S.Hospital, Ashram Road, Ellisbridge, Ahmedabad, Gujarat-380006",
+				"Jamalpur Flyover, Calico Mills, Jamalpur, Ahmedabad, Gujarat-380022",
+				"GF 42/78, Titanium City Center, Anandnagar Road, B/h. Sachin Tower, Jodhpur, Ahmedabad, Gujarat-350015",
+				"Nr. Odhav Chokdi, S.M.E., Odhav Industrial Estate, Odhav, Ahmedabad, Gujarat-382415",
+				"Sardar Patel Mall, Nr. Juni Diamond Mill, Nikol Gam Road, Khodiar Nagar, Ahmedabad, Gujarat-382352 ",
+				"Vidhyalay Chambers, Opp. Paldi Bus Stand, Paldi Road, Pladi, Ahmedabad, Gujarat-380007",
+				"New SG Road, Chandlodiya, Ahmedabad, Gujarat-382481",
+				"2, Silicon valley, Vatva Road, Vatwa, Ahmedabad, Gujarat-382440",
+				"Hotel Holiday, Nr. Petrol Pump Express Post Office, Jamhita House, Usmanpura, Ahmedabad, Gujarat-380013",
+				"Sumera Sagar Complex, Lala Lajpat Rai Marg, Maninagar, Ahmedabad, Gujarat-380008",
+				"Opp. Shera Punjab Restaurant, Khokhra Circle, Maninagar East, Amraiwadi, Ahmedabad, Gujarat-380008",
+				"Shubh Arcade, CTM Flyover 2, Hatkeshwar, AHmedabad, Gujarat-380038"
+			]
+		},
+		{
+			"id": 4,
+			"title": "Central Bank ATM",
+			"location": [
+				"Nr. Manekbaug Cross Road, Shreyas Over Bridge, Gurukrupa Complex, Mithila Soc., Nehru Nagar, Ahmedabad, Gujarat-380015",
+				"Nr. Mahila Police Station, Mithakhadi Six Road, Mithakhadi, Navrangpura, Ahmedabad, Gujarat-380009",
+				"Oxford Tower, Gurukul Road, Nilmani Soc., Memnagar, AHmedabad, Gujarat-380052",
+				"Nr. 122 Bus Stand, Super Market Road, Kuber Nagar, Ahmedabad, Gujarat-382340",
+				"Gota, Ahmedabad, Gujarat-380081",
+				"Photo Flux, 6, Bhavani Chamber, Nr. Times Of India, Ashram Road, Ellisbridge, Ahmedabad, Gujarat-380009 ",
+				"Skylon Tower, Opp. Jhanvi Restaurant, University Road, Gulbai Tekra, Ahmedabad, Gujarat-380015,",
+				"Shop No.5,6,7,8 Ground Floor, Sopan Complex, Nr. Sarkar High School, New CG Road, Nigam Nagar, Chandkheda, Ahmedabad, Gujarat-382424",
+				"Nr. Vallabh Vadi Bus Stop, Archana Soc., Bhairavnath, Maninagar, Ahmedabad, Gujarat-380008",
+				"Memnagar Fire Station, 120 Ft Ring Road, Sarvottam Nagar Soc., Navrangpura, Ahmedabad, Gujarat-380052"
+			]
+		},
+		{
+			"id": 5,
+			"title": "Dena Bank ATM",
+			"location": [
+				"Sanjay Soc., Opp. New Madhavpura Market, Jain Colony, Shahibag, Ahmedabad, Gujarat-380004",
+				"Nr. City Gold, Ashram Road, Muslim Soc., Navrangpura, Ahme dabad, Gujarat-380009",
+				"Ahmedabad Domenstic Airport, Hansol, Ahmedabad, Gujarat-382475",
+				"Shop No.15, Ground Floor, Agrawal Complex, Sola Road, Ghatlodiya, Memnagar, Ahmedabad, Gujarat-380061",
+				"36 Maitrinagar, Nr. Pragatinagar Bus Stop, Pragatinagar, Nandavan, Ahmedabad, Gujarat-380013",
+				"1-A, Ghala Nagar Soc., Ghiya Nagar, Opp. AMTS Bus Stop, GIDC Naroda, Ahmedabad, Gujarat-382330",
+				"7, Vandemataram Arcade, e-202, New SG Road, Bodakdev, Ahmedabad, Gujarat-380054",
+				"Building No.141/5-6-7 GHB Colony, Opp. Meghani Nagar Police Station, Kalapi Nagar, AHmedabad, Gujarat-380016",
+				"Nr. HP Petrol Pump, Jogeshwari Cross Road, Kailash Colony, C.T.M, Amraiwadi, Ahmedabad, Gujarat-380008 ",
+				"Bhairavnath-Isanpur Road, Rajeshwari Soc., Isanpur, Ahmedabad, Gujarat-380028"
+			]
+		},
+		{
+			"id": 6,
+			"title": "ICICI Bank ATM",
+			"location": [
+				"Amar Colds, Haji Nathubhai Complex, Gheekanta, Bhadra, Ahmedabad, Gujarat-380001",
+				"Ashram Road, Hpcl Refrom Service Station, Nr. Nehru Bridge, Vishalpur, Ellisbridge, Ahmedabad, Gujarat-380004",
+				"Railway Station, Laxmi Bazar, Khadia, Ahmedabad, Gujarat-380001",
+				"Chandraprabhu Complex, Bharat Colony, Sardar Patel Colony, Nayak nagar, naryanpura, Ahmedabad, Gujarat-380013",
+				"132 Feet Ring Road, Jaymala, Isanpur, Ahmedabad, Gujarat-380050",
+				"Shanti Tower, Nr. Manekbaug Hall, Nehru Nagar Road, Tapovan Soc., Ambavadi, Ahmedabad, Gujarat-380015",
+				"Opp. LG Hospital, LG Hospital Road, Balvatika, Maninagar, Ahmedabad, Gujarat-380008",
+				"Nr. Mandvi Ni Pole, Astodiya Road, Khamasa, Ahmedabad, Gujarat-380001",
+				"Ghantakarna Mahavir Comm., Ghantakarna Mahaveer Market, Sarangpur, Sherkotda, Ahmedabad, Gujarat-380002",
+				"adv, Mill, Realince Market, Dudeshwar, Ahmedabad, Gujarat-380001",
+				"Baliya Limbdi, New Civil Hospital Road, Patel Soc., Asarwa, Ahmedabad, Gujarat-380016",
+				"Ghodasar Cross Road, Paras Nagar, Ghodasar, Ahmedabad, Gujarat-380050",
+				"Sarthik 2, S.G.Road, Opp. Rajpath Club, Bodakdev, ahmedabad, Gujarat-380054",
+				"Alisan Complex, Dani Limda Char Rasta, Narol Road, Danilimda, Ahmedabad, Gujarat-380028",
+				"National Highway 228, narolgam, Ahmedabad,Gujarat-382405",
+				"Chaman Nagar Soc., Odhav Industrial Estate, Odhav, Ahmedabad, Gujarat-382415",
+				"Koty Building, Gheekanta Cross Road, Relief Road, Nr. Bhagwati Krupa Emporium, Zaveriwad, Kalupur, Ahmedabad, Gujarat-380001 ",
+				"Amiganga Complex, Nr. Soni Bazar, Ahbad Nagar, Maninagar East, Khokhra Memadabad, Ahmedabad, Gujarat-380008",
+				"R C Technical Road, Shiv Shakti Nagar, Vishwas City 1, Chanakyapuri, Ahmedabad, Gujarat-380061",
+				"Aalishan Shopping Center, Opp. Brts Bus Stand, BRTS Corridor, Jamalpur, Ahmedabad, Gujarat-380022",
+				"Income Tax, Shop #3, Ratna Nabh Complex, Usmanpura, Ahmedabad, Gujarat-380006",
+				"Hpcl J Rasiklal, Shahpur, Ahmedabad, Gujarat-380001",
+				"Nr. Siddhi Sheela Complex, Opp. Prerna Tirth Derasar, Jodhpur, Ahmedabad, Gujarat-380015",
+				"Raipur, Shop No.7, Golden Plaza, Dharmyug Colony, Gita Mandir, Ahmedabad, Gujarat-380001",
+				"Speetrum Shopping Center, Opp. Police Stadium, Shahibag, Ahmedabad, Gujarat-380004"
+			]
+		},
+		{
+			"id": 7,
+			"title": "Indian Bank ATM",
+			"location": [
+				"Pranami Nagar, Mahadev Nagar Tekra, Ahmedabad, Gujarat-380038",
+				"Opp. Good Luck Hall, Nr. Punit Apartment, Daxini Soc., Maninagar, Ahmedabad, Gujarat-380008",
+				"Ankur Road, Shivanand Soc., Rang Jyot Soc., Naryanpura, Ahmedabad, Gujarat-380013",
+				"Chimanlal Girdharlal Road, Mi5thakhadi, Navrangpura, Ahmedabad, Gujarat-380009 ",
+				"Ground Floor, Rudra Arcade, Nr. Helmet Cross Road, Saurabh Soc., Naryanpura, AHmedabad, Gujarat-380052"
+			]
+		},
+		{
+			"id": 8,
+			"title": "Kotak Mahidra Bank ATM ",
+			"location": [
+				"ING Vysya Bank Lmd, 1750, Dhobi Ni Pole Na Naka, Opp. Sevak Ni Wad, Khadia, ahmedabad, Gujarat-380001",
+				"Ground Floor, Shop.no Shanti Mall, 1, Ghatlodia Road, Sola, Ahmedabad, Gujarat-380061",
+				"SNL House Soc., 5, Drive In Road, Sunrise Park, Gurukul, Ahmedabad, Gujarat-380054",
+				"Aegis Office Ltd., Essar House, Opp. Gujarat College, Ellisbridge, Ahmedbad, Gujarat-380005",
+				"New CG Road, Kalpana Nagar, Chandkheda, Ahmedabad, Gujarat-382424",
+				"Ground Floor, Shop.no. 1-A, Sachet-4 Buidling, Prernatirth Derasar Road, Satellite, Jodhpur, Ahmedabad, Gujarat-380015",
+				"Surendra Mangaldas Road, Acharya Narendradev Nagar, Ambavadi, Ahmedabad, Gujarat-380015",
+				"maneklal Marg, Old Wadaj, Ahmedabad, Gujarat-380013",
+				"Ground Floor, Shop.no. G-2, Sukhsagar Complex, Nr. Fortune Landmark Hotel, Shanti Nagar, Usmanpura, Ahmedabad, Gujarat-380013",
+				"45, Netaji Road, Kochrab, Paldi, Ahmedabad, Gujarat-380007",
+				"1, Ambali Main Road, Ambali, Ahmedabad, Gujarat-380058",
+				"Prime Plaza Satya Marg, Judges Bunglow Road, Bodakdev, Ahmedabad, Gujarat-380054",
+				"Drive In Road, Sushil Nagar Soc., Memnagar, Ahmedabad, Gujarat-380052",
+				"anandnagar Road, Prahlad Nagar, Ahmedabad, Gujarat-380015",
+				"Shreyas tekra, Bhudarpura, Ayojan Nagar, Ahmedabad, Gujarat-380015"
+			]
+		},
+		{
+			"id": 9,
+			"title": "Punjab National Bank ATM",
+			"location": [
+				"Surendra mangaldas Road, Ellisbridge, Ahmedabad, Gujarat-380006",
+				"Radha Krishna Soc., Isanpur, Ahmedabad, Gujarat-380050",
+				"132 Ft Ring Road, Vijaynagar, Naryanpura, Ahmedabad, Gujarat-380013",
+				"Super Plaza, Nr. Sandesh Press, Sandesh Press Road, Vastrapur, Ahmedabad, Gujarat-380054",
+				"Bhujangdev Circle, Indra Government Soc., Ghatlodiya, Memnagar, Ahmedabad, Gujarat-380061",
+				"B-Wing, Ground Floor, Opp. Karnavati Club, Sarkhej-Gandhinagar Highway, Prahlad Nagar, Ahmedabad, Gujarat-380015",
+				"Vanijaya Bhavan, Opp. Diwan Ballubhai School, Diwan Ballubhai Road, Raipur, AHmedabad, Gujarat-380001",
+				"GIDC Industrial Area, Odhav, Ahmedabad, Gujarat-382415",
+				"Opp. New Mental Windows, Jhaverchand Meghani Road, Kalapi Nagar, Ahmedabad, Gujarat-380016",
+				"Nr. Petrol Pump, Opp. Kothawala Flats, Paldi Road, Paldi, Ahmedabad, Gujarat-380006",
+				"National Highway 8C, Makarba, Ahmedabad, Gujarat-380051",
+				"Nr. J.P.Farm, Ghuma Main Road, Ghuma, Ahmedabad, Gujarat-380058",
+				"Mahalaxmi Diamond Center, Opp. Arvind Park Soc., Bapunagar, Ahmedabad, Gujarat-380025",
+				"Sarjan-2 Complex, New CG Road, Nigam Nagar, Chandkheda, Ahmedabad, Gujarat-382424",
+				"Relief Road, Gheekanta, Bhadra, Ahmedabad, Gujarat-380001",
+				"Rambagh, Maninagar, Ahmedabad, Gujarat-380008",
+				"411/1, Next to SIS Building, Gota Cross Road, Opp. Alloft Hotel, Sarkhrj-Gandhinagar Highway, Gota, Ahmedabad, Gujarat-380061",
+				"Nr. Karaka Building, Ashram Road, Ellisbridge, Ahmedabad, Gujarat-380009",
+				"Balaji Complex, Nr. Sardar Center, Nehru park, Mahavir Nagar Soc., Vastrapur, Ahmedabad, Gujarat-380015",
+				"Balaji Center, Opp. Gurukul Mandir, Gurukul Road, Gurukul, Ahmedabad, Gujarat-380052"
+			]
+		},
+		{
+			"id": 10,
+			"title": "State Bank of India ATM",
+			"location": [
+				"Opp. Library, Gujarat University, Ahmedabad, Gujarat-380009",
+				"Mahavir Nagar Soc., Vastrapur, Ahmedabad, Gujarat-380015",
+				"Medi Surge Building, 1 Maharashtra Soc., Mithakhadi, Navrangpura, Ahmedabad, Gujarat-380009",
+				"Rangoli Complex, Opp. VS Hospital, Ashram Road, Madalpur Gam, Paldi, Ahmedabad, Gujarat-380006",
+				"Ghodasar, Ahmedabad, Gujarat-380050",
+				"Skyline Tower, Opp. Jahnavi Restaurant, University Road, Gulbai Tekra, Ahmedabad, Gujarat-380015",
+				"Neema House Patvasheri, Patthar Kuwa, Relief Road, bhadra, Ahmedabad, Gujarat-380001",
+				"Nr. First Flight Courier, Opp. Gandhi Gram Station, Purshottam Mavlankar Marg, I P Mission Compound, Ellisbridge, Ahmedabad, Gujarat-380006",
+				"Girivar Soc., Navrangpura, Ahmedabad, Gujarat-380014",
+				"Nr. State Bank Of Mysore, Paanchvati, Gulabai Tekra, Ahmedabad, Gujarat-380006",
+				"Nr. Gujarat College, Ashram Road, Ellisbridge, Ahmedabad, Gujarat-380006",
+				"Vrundavan, Shopping Center, 132 Ft Rinig Road, Opp. Ashwamegh Bunglows, Swinagar Soc., Nehru Nagar, Satellite, Ahmedabad, Gujarat-380015",
+				"Adani Rajvi Super Market, Opp. Police Station, Rambaug, Mnanagar, Ahmedabad, Gujarat-380008",
+				"Ground Floor, Sankalp Square Building, Nr. Hanumanji Temple, Memnagar, Ahmedabad, Gujarat-380052",
+				"Radha Krishna Soc., Jay Krishna Soc., Isanpur, Ahmedabad, Gujarat-380050",
+				"6, Gheekanta Road,   Gheekanta, Bhadra, Ahmedabad, Gujarat-380001",
+				"Muktijivan Bhandar, Gupta Nagar, Vishala, Ahmedabad, Gujarat-380055",
+				"Nr. Swizz Plaza, Opp. Manekbuag Hall, BRTS Corridor Road, Nehru Nagar, Patel Colony, Ambavadi, Ahmedabad, Gujarat-380015",
+				"KK Nagar, Ghatlodiya, Ahmedabad, Gujarat-380061",
+				"2, Vijay Complex, Opp. BSNL, Old Dhor Bazzar, Maninagar, Ahmedabad, Gujarat-380028",
+				"Shitiranta Complex, Chimanlal Girdharlal Road,  Ellisbridge, Ahmedabad, Gujarat-380006",
+				"Opp. vasna Municipal School, Nr. Vasna Bus Stand, Vasna, Ahmedabad, Gujarat-380007",
+				"Next To Collector Office, Nr. Subhash Bridge Circle, R.T.O, Old, Wadaj, Ahmedabad, Gujarat-380027",
+				"Danilimda, Ahmedabad, Gujarat-380028",
+				"Prernatirth Derasar Road, Satellite, Ahmedabad, Gujarat-380015"
+			]
+		},
+		{
+			"id": 11,
+			"title": "Union Bank Of India ATM",
+			"location": [
+				"Saiyedwada, Bhadra, Ahmedabad, Gujarat-380001",
+				"Prahalad Soc., Naryanpura, Ahmedabad, Gujarat-380013",
+				"Dhara Complex, Shitalvarsha 3, Nr. Vijay Char Rasta, Drive In Road, Sarvottam Nagar Soc., Navrangpura, AHmedabad, Gujarat-380009",
+				"132 Ft Ring Road, Vastrapur, Ahmedabad, Gujarat-380052",
+				"Opp. Mental Bari, Jhaverchand Meghani Road, Kalapi Nagar, Ahmedabad, Gujarat-380016",
+				"Ring Road, New Ashram Road, Nava Vadaj, Ahmedabad, Gujarat-380013",
+				"Dr. Vikram Sarabhai Marg, Panchvati Soc., Gulbai Tekra, Ahmedabad, Gujarat-380009",
+				"Surendra Mangaldas Road, Ambawadi, Ahmedabad, Gujarat-380006",
+				"Nr. Torrent Power, Dudheshwar Road, Dariyapur, Ahmedabad, Gujarat-380004",
+				"Neelam park, Parshwanath Tower, Nr. Subhash Chowk, Gurukul Road, Memnagar, Ahmedabad, Gujarat-380052",
+				"Adishwar Complex, Ankur Road, ISRO COlony, Shashtrinagar, Ahmedabad, Gujarat-380013",
+				"New Ranip Road, New Ranip, Ahmedabad, Gujarat-382470",
+				"18, Shayona Center, Nr. Memco Circle, Naroda Road, D Colony, AHmedabad, Gujarat-382340",
+				"Nr. Old Railway Crossing, Maninagar East, Maninagar, AHmedabad, Gujarat-380008",
+				"Swaminarayan Avenue, Nr. Mahalaxmi Cross Road, Fatehpura, Motinagar, Paldi, Ahmedabad, Gujarat-380007"
+			]
+		},
+		{
+			"id": 12,
+			"title": "Yes Bank ATM",
+			"location": [
+				"Chimanlal Girdharlal Road, Navrangpura Gam, Navrangpura, Ahmedabad, Gujarat-380014",
+				"Near Town Hall, Opp. Sarkar-2, Ahram Road, Madalpur, Paldi, Ahmedabad, Gujarat-380006",
+				"Utsav Complex, Vyas Vadi Road, Next To Handloom Mall, 132 Ft Ring Road, Nava Vadaj, Ahmedabad, Gujarat-380013",
+				"Rudraksh Ram Baug, Lala Lajpat Rai Marg, Rambagh, Maninagar, Ahmedabad, Gujarat-380008",
+				"Ram Nagar, Sabarmati, Sheetalkunj Soc., Sbabarmati, Ahmedabad, Gujarat-380005",
+				"Gurukul Road, Memnagar, Ahmedabad , Gujarat-380052",
+				"18, Relief Road,  Gheekanta, Bhadra, Ahmedabad, Gujarat-380001",
+				"Shop No. G-22, Raghuveer Complex, GIDC Industrial Area, Odhav, Ahmedabad, Gujarat-380024",
+				"Vatva Road, Manav Purusharth Soc., Bhairavnath, Maninagar, Ahmedabad, Gujarat-380008",
+				"Narolgham, Ahmedabad, Gujarat-380024"
+			]
+		}
+	]
+}
